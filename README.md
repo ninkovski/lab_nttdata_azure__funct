@@ -1,0 +1,1 @@
+# lab_nttdata_azure__funct
